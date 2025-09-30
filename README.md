@@ -28,8 +28,8 @@ Langkah-langkah yang dilakukan meliputi:
 ## ⚙️ Instalasi
 Clone repositori ini:
 ```bash
-git clone https://github.com/username/customer-eloyalty.git
-cd customer-eloyalty
+git clone https://github.com/username/customer-eloyalty.git](https://github.com/AdjieArrayan/Analisis-Loyalitas_Customer.git
+cd Analisis-Loyalitas_Customer
 ```
 
 Install dependencies:
@@ -92,5 +92,5 @@ pip install -r requirements.txt
 ---
 
 ## 👨‍💻 Author
-Dikerjakan oleh **[Nama Kamu]**  
+Dikerjakan oleh **Adjie Arrayan Surya Putra**  
 Proyek analisis ini dibuat menggunakan **Python (pandas, scikit-learn, seaborn, matplotlib, factor_analyzer)**.  
